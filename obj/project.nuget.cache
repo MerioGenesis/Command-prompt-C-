@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "apZY6590YXniGf9uWIIuvFwG70x6C78mfSJ/GS1XNOceTrYrIbpE5SGkRn5tKgxxCZeo08NQU25r+1lO0WHKhA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\UNKNOWN\\Desktop\\Kingston Access Files\\Kingston Access Files\\SCHOOL\\FINISHED\\Array and Data Types Assignemnt\\Array and Data Types Assignemnt\\Array and Data Types Assignemnt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UNKNOWN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512",
+    "C:\\Users\\UNKNOWN\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\UNKNOWN\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\UNKNOWN\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

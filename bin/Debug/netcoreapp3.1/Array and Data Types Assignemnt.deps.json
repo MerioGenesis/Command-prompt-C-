@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Array and Data Types Assignemnt/1.0.0": {
+        "runtime": {
+          "Array and Data Types Assignemnt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Array and Data Types Assignemnt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
